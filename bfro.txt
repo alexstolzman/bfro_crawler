@@ -1,0 +1,65 @@
+Alaska	21	1-2014	1-2013
+Alabama	101	11-2021	11-2021
+Arkansas	110	3-2022	11-2018
+Arizona	85	6-2021	6-2021
+California	460	11-2022	10-2022
+Colorado	130	7-2021	6-2021
+Connecticut	21	8-2022	10-2019
+Delaware	5	9-2013	11-2012
+Florida	338	12-2022	12-2022
+Georgia	140	12-2022	12-2022
+Iowa	76	4-2018	6-2018
+Idaho	103	9-2022	11-2021
+Illinois	302	3-2022	11-2021
+Indiana	82	9-2020	6-2020
+Kansas	49	5-2021	5-2021
+Kentucky	115	12-2021	11-2021
+Louisiana	44	12-2020	7-2018
+Massachusetts	37	9-2020	8-2020
+Maryland	35	11-2022	11-2022
+Maine	20	12-2020	11-2020
+Michigan	225	2-2022	2-2022
+Minnesota	77	12-2022	10-2022
+Missouri	166	7-2022	7-2022
+Mississippi	24	1-2022	1-2022
+Montana	53	7-2020	4-2020
+North Carolina	106	7-2022	7-2022
+North Dakota	6	12-2010	8-2005
+Nebraska	15	1-2019	5-2018
+New Hampshire	17	5-2021	7-2016
+New Jersey	75	4-2022	6-2053
+New Mexico	43	7-2021	7-2020
+Nevada	9	4-2009	2-2005
+New York	120	11-2022	10-2022
+Ohio	318	1-2022	7-2021
+Oklahoma	111	10-2022	8-2022
+Oregon	257	12-2020	8-2020
+Pennsylvania	125	10-2022	10-2022
+Rhode Island	5	12-2011	11-2011
+South Carolina	57	8-2022	8-2022
+South Dakota	19	6-2020	6-2019
+Tennessee	104	10-2021	6-2021
+Texas	253	5-2022	3-2022
+Utah	73	9-2022	9-2022
+Virginia	85	12-2021	12-2021
+Vermont	10	11-2019	8-2019
+Washington	708	8-2022	8-2022
+Wisconsin	105	5-2022	10-2021
+West Virginia	106	10-2022	7-2017
+Wyoming	28	5-2010	3-2010
+Alberta	43	3-2020	7-2018
+British Columbia	134	12-2020	12-2020
+Manitoba	31	8-2012	1-2011
+New Brunswick	8	12-2021	8-2021
+Nova Scotia	3	11-2016	10-2015
+Ontario	68	8-2020	7-2020
+Quebec	4	4-2008	1-2007
+Saskatchewan	7	10-2008	4-2006
+Yukon	5	5-2009	3-2009
+Australia	1	6-2002	6-2002
+China	11	1-2006	1-2006
+Indonesia	3	11-2002	11-2002
+Malaysia	36	12-2006	12-2006
+Himalayan Region	10	5-2008	5-2008
+Russia	5	5-1989	4-2015
+Other Countries & Regions	6	11-2014	11-2011
